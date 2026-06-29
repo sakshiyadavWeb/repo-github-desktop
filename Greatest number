@@ -1,0 +1,6 @@
+first_num=int(input("enter the fisrt number"))
+second_num=int(input("enter the second number"))
+if first_num>second_num:
+    print("greater number=",first_num)
+else:
+    print("greater number=",second_num)
